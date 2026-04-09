@@ -1,4 +1,38 @@
+import { initForm } from '@formspree/ajax';
+
 document.addEventListener("DOMContentLoaded", () => {
+    
+    // Initialize Formspree AJAX Form
+    initForm({ formElement: '#contact-form', formId: 'meepwnqb' });
+    
+    // 0. Contact Modal Toggle Logic
+    const contactModal = document.getElementById("contact-modal");
+    const closeModalBtn = document.getElementById("close-modal");
+    const contactTriggers = document.querySelectorAll(".contact-trigger");
+
+    if (contactModal) {
+        contactTriggers.forEach(btn => {
+            btn.addEventListener("click", (e) => {
+                e.preventDefault();
+                contactModal.classList.add("active");
+                const mobileMenu = document.querySelector(".mobile-menu");
+                if (mobileMenu && mobileMenu.classList.contains("active")) {
+                    mobileMenu.classList.remove("active");
+                }
+            });
+        });
+
+        closeModalBtn.addEventListener("click", () => {
+            contactModal.classList.remove("active");
+        });
+
+        // Close on outside click
+        contactModal.addEventListener("click", (e) => {
+            if (e.target === contactModal) {
+                contactModal.classList.remove("active");
+            }
+        });
+    }
     
     // 1. Navbar Scroll Effect
     const header = document.getElementById("header");
