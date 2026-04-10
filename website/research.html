@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAFE-H: Research</title>
+    <meta name="description" content="통계적 추출과 설명 가능한 AI(XAI)를 활용하여 객관적이고 신뢰할 수 있는 K-Forensic 시스템을 구축하는 SAFE-H 프로젝트 사이트입니다.">
+    <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header & Navigation -->
+    <header id="header" class="solid">
+        <div class="nav-container">
+            <div class="logo">
+                <a href="/index.html">SAFE-H</a>
+            </div>
+            <nav class="nav-links">
+                <a href="/index.html#about">About</a>
+                <a href="/research.html" class="active">Research</a>
+                <a href="/collaboration.html" >Collaboration</a>
+                <a href="/team.html" >Team</a>
+                <a href="/publications.html" >Publications</a>
+                <a href="#" class="contact-trigger">Contact</a>
+            </nav>
+            <div class="hamburger">
+                <i class="fas fa-bars"></i>
+            </div>
+        </div>
+    </header>
+
+    <div class="mobile-menu">
+        <a href="/index.html#about" class="mobile-link">About</a>
+        <a href="/research.html" class="mobile-link active">Research</a>
+        <a href="/collaboration.html" class="mobile-link ">Collaboration</a>
+        <a href="/team.html" class="mobile-link ">Team</a>
+        <a href="/publications.html" class="mobile-link ">Publications</a>
+        <a href="#" class="mobile-link contact-trigger">Contact</a>
+    </div>
+\n    <section id="research" class="section bg-light" style="padding-top:120px;">
+        <div class="container">
+            <h2 class="section-title reveal">핵심 연구 내용</h2>
+            <p class="section-subtitle reveal">전통적 감정 체계를 혁신하는 4단계 기술 융합 파이프라인</p>
+            <div class="research-grid">
+                <div class="research-card reveal">
+                    <div class="card-image bg-blue"><i class="fas fa-network-wired"></i></div>
+                    <div class="card-content">
+                        <h4>1. 정량적 필적 비교모형</h4>
+                        <p>한글 및 다국어 필적 기초. <strong>LDA-Tuning 기법</strong>을 적용하여 파라미터 효율을 극대화한 경량 딥러닝 정합 알고리즘을 구축합니다.</p>
+                    </div>
+                </div>
+                <div class="research-card reveal delay-1">
+                    <div class="card-image bg-purple"><i class="fas fa-brain"></i></div>
+                    <div class="card-content">
+                        <h4>2. XAI 매커니즘</h4>
+                        <p><strong>Vector SHAP</strong> 및 AEV(Alphabet Expression Value) 기반 설명 추적 기법을 통해 어떤 특징이 판별에 기여했는지를 직관적인 히트맵으로 시각화합니다.</p>
+                    </div>
+                </div>
+                <div class="research-card reveal delay-2">
+                    <div class="card-image bg-teal"><i class="fas fa-chart-area"></i></div>
+                    <div class="card-content">
+                        <h4>3. UQ 및 증거력 산출</h4>
+                        <p>결과의 베이지안 불확실성(Uncertainty)을 정량화하고 <strong>점수 기반 우도비(SLR)</strong>의 95% 신뢰 구간을 시뮬레이션하여 법정에서 안전한 지표를 제공합니다.</p>
+                    </div>
+                </div>
+                <div class="research-card reveal delay-3">
+                    <div class="card-image bg-orange"><i class="fas fa-search-plus"></i></div>
+                    <div class="card-content">
+                        <h4>4. MIL 부분 위조 탐지</h4>
+                        <p>다중 인스턴스 학습(MIL)과 시계열 속도망을 활용. 획의 필압, 리듬 등 동역학 정보를 분해하여 문서 특정 부위의 정밀 변조(Forgery)를 탐지해 냅니다.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Roadmap Section -->
+    <section id="roadmap" class="section">
+        <div class="container">
+            <h2 class="section-title reveal">연차별 연구 로드맵</h2>
+            <p class="section-subtitle reveal">4년에 걸쳐 고도화되는 K-Forensic 시스템 구축 파이프라인</p>
+            
+            <div class="timeline">
+                <!-- Year 1 -->
+                <div class="timeline-item reveal">
+                    <div class="timeline-dot bg-blue"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-layout">
+                            <div class="timeline-text">
+                                <div class="timeline-year">1차년도 (2026)</div>
+                                <h3>기반 구축 및 모형 경량화</h3>
+                                <ul>
+                                    <li><strong>데이터 수집:</strong> 한글 및 다국어 기반 자체 데이터 자산 구축 및 국제 협력 데이터 확보</li>
+                                    <li><strong>LDA-Tuning:</strong> 파라미터 효율을 극대화한 다국어 범용 경량 전이학습 모델 설계</li>
+                                    <li><strong>기초 XAI:</strong> Vector SHAP 기반 획 세그먼트별 기여도 분석 시각화 도구 마련</li>
+                                </ul>
+                            </div>
+                            <div class="timeline-image">
+                                <img src="/images/y1.png" alt="1차년도 일러스트" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Year 2 -->
+                <div class="timeline-item reveal delay-1">
+                    <div class="timeline-dot bg-purple"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-layout reverse">
+                            <div class="timeline-text">
+                                <div class="timeline-year">2차년도 (2027)</div>
+                                <h3>신뢰성 고도화 및 멀티모달 융합</h3>
+                                <ul>
+                                    <li><strong>멀티모달 융합:</strong> 시각-언어 특징 융합을 통한 자연어 형태의 감정 소견서 자동 생성</li>
+                                    <li><strong>불확실성(UQ) 정량화:</strong> 딥러닝 판정의 과신을 방지하는 베이지안 기반 신뢰도 지표 산출</li>
+                                    <li><strong>우도비(LR) 검정:</strong> 부트스트래핑(Bootstrapping) 기법을 활용한 95% 신뢰구간 및 통계적 우도비 제공</li>
+                                </ul>
+                            </div>
+                            <div class="timeline-image">
+                                <img src="/images/y2.png" alt="2차년도 일러스트" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Year 3 -->
+                <div class="timeline-item reveal delay-2">
+                    <div class="timeline-dot bg-teal"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-layout">
+                            <div class="timeline-text">
+                                <div class="timeline-year">3차년도 (2028)</div>
+                                <h3>정밀 탐지 및 시계열 분석</h3>
+                                <ul>
+                                    <li><strong>부분 위조 탐지:</strong> 다중 인스턴스 학습(MIL) 기반 문서 내 국소적 조작 구간 정밀 식별</li>
+                                    <li><strong>히트맵 시각화:</strong> 위조 의심 구간의 직관적 파악을 위한 Attention Rollout 히트맵 제공</li>
+                                    <li><strong>시계열 고도화:</strong> 필압·속도 분해를 통한 동역학적 이상 신호 추출 및 위조 근거 보강</li>
+                                </ul>
+                            </div>
+                            <div class="timeline-image">
+                                <img src="/images/y3.png" alt="3차년도 일러스트" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Year 4 -->
+                <div class="timeline-item reveal delay-3">
+                    <div class="timeline-dot bg-orange"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-layout reverse">
+                            <div class="timeline-text">
+                                <div class="timeline-year">4차년도 (2029)</div>
+                                <h3>실무 플랫폼 패키징 및 글로벌 표준화</h3>
+                                <ul>
+                                    <li><strong>플랫폼 검증:</strong> 국과수(NFS) 실무 테스트 및 협업 기관(CSAFE) 간 알고리즘 성능 교차 검증</li>
+                                    <li><strong>실무 배포:</strong> 수사 기관에서 즉시 활용할 수 있도록 API/Docker 형태의 감정 시스템 배포</li>
+                                    <li><strong>글로벌 표준 제안:</strong> AI 기반 필적 감정 결과 보고 프로토콜 확립 및 국제 표준화 기구(OSAC) 제안</li>
+                                </ul>
+                            </div>
+                            <div class="timeline-image">
+                                <img src="/images/y4.png" alt="4차년도 일러스트" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>\n    <footer class="site-footer">
+        <div class="container inner-footer">
+            <div class="footer-left">
+                <h2>SAFE-H</h2>
+                <p>글로컬 R&D 지원 연구과제 홈페이지</p>
+                <div class="social-links">
+                    <a href="#" class="contact-trigger" title="문의하기"><i class="fas fa-envelope"></i></a>
+                    <a href="#"><i class="fas fa-globe"></i></a>
+                </div>
+            </div>
+            <div class="footer-center">
+                <h3>연구 참여 기관</h3>
+                <ul>
+                    <li>부산대학교 (PNU)</li>
+                    <li>부경대학교 (PKNU)</li>
+                    <li>CSAFE (Center for Statistics and Applications in Forensic Evidence)</li>
+                    <li>국립과학수사연구원 (NFS)</li>
+                </ul>
+            </div>
+            <div class="footer-right">
+                <h3>빠른 이동</h3>
+                <ul class="quick-links">
+                    <li><a href="/index.html#about">프로젝트 미션</a></li>
+                    <li><a href="/research.html">핵심 연구 내용</a></li>
+                    <li><a href="/publications.html">연구성과</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 SAFE-H Project. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Contact Modal -->
+    <div id="contact-modal" class="modal-overlay">
+        <div class="modal-content">
+            <button id="close-modal" class="modal-close">&times;</button>
+            <h2 class="section-title">문의하기</h2>
+            <p class="section-subtitle">프로젝트 또는 기술 협력 관련 문의사항을 남겨주세요.</p>
+            
+            <div class="contact-form-container">
+                <div data-fs-success class="form-success">메시지가 전송되었습니다! 감사합니다.</div>
+                <div data-fs-error class="form-error"></div>
+                <form id="contact-form" class="styled-form">
+                    <div class="form-group">
+                        <label for="email">이메일 (Email)</label>
+                        <input type="email" id="email" name="email" data-fs-field required placeholder="example@email.com" />
+                        <span data-fs-error="email" class="field-error"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="message">메시지 (Message)</label>
+                        <textarea id="message" name="message" data-fs-field required rows="5" placeholder="문의하실 내용을 입력해 주세요."></textarea>
+                        <span data-fs-error="message" class="field-error"></span>
+                    </div>
+                    <button type="submit" class="btn btn-primary" data-fs-submit-btn>문의 보내기 (Send)</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script type="module" src="/main.js"></script>
+</body>
+</html>

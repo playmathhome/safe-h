@@ -60,21 +60,41 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     // 3. Smooth Scroll for Anchor Links
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    document.querySelectorAll('a[href^="#"], a[href^="/index.html#"]').forEach(anchor => {
         anchor.addEventListener('click', function (e) {
-            e.preventDefault();
-            const targetId = this.getAttribute('href').substring(1);
-            if (targetId) {
+            const href = this.getAttribute('href');
+            const hashIndex = href.indexOf('#');
+            if (hashIndex === -1) return;
+            const targetId = href.substring(hashIndex + 1);
+            
+            const isIndexPage = window.location.pathname === '/' || window.location.pathname === '/index.html' || window.location.pathname === '';
+            
+            if (isIndexPage || href.startsWith('#')) {
                 const targetElement = document.getElementById(targetId);
                 if (targetElement) {
+                    e.preventDefault();
                     window.scrollTo({
                         top: targetElement.offsetTop - 80, // Offset for fixed header
                         behavior: 'smooth'
                     });
                 }
             }
+            // If it's not the index page and it starts with /index.html#, the browser will navigate natively.
         });
     });
+
+    // 3-1. Handle offset when arriving from another page with a hash
+    if (window.location.hash) {
+        setTimeout(() => {
+            const targetElement = document.getElementById(window.location.hash.substring(1));
+            if (targetElement) {
+                window.scrollTo({
+                    top: targetElement.offsetTop - 80,
+                    behavior: 'smooth'
+                });
+            }
+        }, 100);
+    }
 
     // 4. Scroll Reveal Animation using Intersection Observer
     const revealElements = document.querySelectorAll('.reveal');

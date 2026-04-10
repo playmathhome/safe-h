@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAFE-H: Collaboration</title>
+    <meta name="description" content="통계적 추출과 설명 가능한 AI(XAI)를 활용하여 객관적이고 신뢰할 수 있는 K-Forensic 시스템을 구축하는 SAFE-H 프로젝트 사이트입니다.">
+    <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header & Navigation -->
+    <header id="header" class="solid">
+        <div class="nav-container">
+            <div class="logo">
+                <a href="/index.html">SAFE-H</a>
+            </div>
+            <nav class="nav-links">
+                <a href="/index.html#about">About</a>
+                <a href="/research.html" >Research</a>
+                <a href="/collaboration.html" class="active">Collaboration</a>
+                <a href="/team.html" >Team</a>
+                <a href="/publications.html" >Publications</a>
+                <a href="#" class="contact-trigger">Contact</a>
+            </nav>
+            <div class="hamburger">
+                <i class="fas fa-bars"></i>
+            </div>
+        </div>
+    </header>
+
+    <div class="mobile-menu">
+        <a href="/index.html#about" class="mobile-link">About</a>
+        <a href="/research.html" class="mobile-link ">Research</a>
+        <a href="/collaboration.html" class="mobile-link active">Collaboration</a>
+        <a href="/team.html" class="mobile-link ">Team</a>
+        <a href="/publications.html" class="mobile-link ">Publications</a>
+        <a href="#" class="mobile-link contact-trigger">Contact</a>
+    </div>
+\n    <section id="collaboration" class="section" style="padding-top:120px;">
+        <div class="container">
+            <div class="collab-layout">
+                <div class="collab-text reveal">
+                    <h2>글로벌 포렌식 4각 거버넌스</h2>
+                    <p>현장 실효성 검증과 국내외 글로벌 표준화(ISO/IEC 등) 체계를 확립하기 위한 유기적 Glocal 융합 R&D 파트너십</p>
+                    <ul class="collab-list">
+                        <li><strong>PNU (부산대학교)</strong> : 다국어 통합 데이터 전처리 및 경량화 정합 XAI 개발</li>
+                        <li><strong>PKNU (부경대학교)</strong> : 시계열 기반 이상 신호 탐지 및 UQ·신뢰성 우도비 검토</li>
+                        <li><strong>CSAFE (미국)</strong> : 국제 다국어 데이터 공유 및 세계 수준 성능 교차 자문</li>
+                        <li><strong>NFS (국립과학수사연구원)</strong> : 실무 기반 평가 및 플랫폼 현장 배포, 법정 증거 피드백</li>
+                    </ul>
+                </div>
+                <div class="collab-visual reveal delay-1">
+                    <div class="circle-diagram">
+                        <div class="circle center">SAFE-H<br>Core</div>
+                        <div class="circle node top"><i class="fas fa-university"></i> PNU</div>
+                        <div class="circle node right"><i class="fas fa-chart-line"></i> PKNU</div>
+                        <div class="circle node bottom"><i class="fas fa-globe-americas"></i> CSAFE</div>
+                        <div class="circle node left"><i class="fas fa-fingerprint"></i> NFS</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>\n    <footer class="site-footer">
+        <div class="container inner-footer">
+            <div class="footer-left">
+                <h2>SAFE-H</h2>
+                <p>글로컬 R&D 지원 연구과제 홈페이지</p>
+                <div class="social-links">
+                    <a href="#" class="contact-trigger" title="문의하기"><i class="fas fa-envelope"></i></a>
+                    <a href="#"><i class="fas fa-globe"></i></a>
+                </div>
+            </div>
+            <div class="footer-center">
+                <h3>연구 참여 기관</h3>
+                <ul>
+                    <li>부산대학교 (PNU)</li>
+                    <li>부경대학교 (PKNU)</li>
+                    <li>CSAFE (Center for Statistics and Applications in Forensic Evidence)</li>
+                    <li>국립과학수사연구원 (NFS)</li>
+                </ul>
+            </div>
+            <div class="footer-right">
+                <h3>빠른 이동</h3>
+                <ul class="quick-links">
+                    <li><a href="/index.html#about">프로젝트 미션</a></li>
+                    <li><a href="/research.html">핵심 연구 내용</a></li>
+                    <li><a href="/publications.html">연구성과</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 SAFE-H Project. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Contact Modal -->
+    <div id="contact-modal" class="modal-overlay">
+        <div class="modal-content">
+            <button id="close-modal" class="modal-close">&times;</button>
+            <h2 class="section-title">문의하기</h2>
+            <p class="section-subtitle">프로젝트 또는 기술 협력 관련 문의사항을 남겨주세요.</p>
+            
+            <div class="contact-form-container">
+                <div data-fs-success class="form-success">메시지가 전송되었습니다! 감사합니다.</div>
+                <div data-fs-error class="form-error"></div>
+                <form id="contact-form" class="styled-form">
+                    <div class="form-group">
+                        <label for="email">이메일 (Email)</label>
+                        <input type="email" id="email" name="email" data-fs-field required placeholder="example@email.com" />
+                        <span data-fs-error="email" class="field-error"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="message">메시지 (Message)</label>
+                        <textarea id="message" name="message" data-fs-field required rows="5" placeholder="문의하실 내용을 입력해 주세요."></textarea>
+                        <span data-fs-error="message" class="field-error"></span>
+                    </div>
+                    <button type="submit" class="btn btn-primary" data-fs-submit-btn>문의 보내기 (Send)</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script type="module" src="/main.js"></script>
+</body>
+</html>
