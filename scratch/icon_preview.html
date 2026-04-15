@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>SAFE-H: Icon Preview</title>
+    <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary-col: #0f172a;
+            --accent-blue: #3b82f6;
+            --bg-light: #f8fafc;
+        }
+        body { font-family: 'Pretendard', sans-serif; background: #eee; padding: 40px; display: flex; justify-content: center; }
+        .preview-container { background: white; padding: 40px; border-radius: 30px; box-shadow: 0 20px 50px rgba(0,0,0,0.1); max-width: 900px; width: 100%; }
+        h1 { font-size: 1.8rem; color: var(--primary-col); margin-bottom: 10px; text-align: center; }
+        p { text-align: center; color: #64748b; margin-bottom: 40px; }
+        .icon-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+        .group-title { grid-column: 1 / -1; font-weight: 800; font-size: 1.1rem; margin-top: 20px; padding: 10px 0; border-bottom: 2px solid #e2e8f0; color: var(--accent-blue); }
+        .icon-card { 
+            background: var(--bg-light); padding: 25px; border-radius: 20px; 
+            display: flex; flex-direction: column; align-items: center; gap: 15px;
+            transition: 0.3s; cursor: pointer; border: 2px solid transparent;
+        }
+        .icon-card:hover { transform: translateY(-5px); border-color: var(--accent-blue); background: white; box-shadow: 0 10px 20px rgba(0,0,0,0.05); }
+        .icon-card i { font-size: 2.5rem; color: var(--primary-col); }
+        .icon-card span { font-size: 0.85rem; color: #64748b; font-weight: 600; text-align: center; line-height: 1.2; }
+        .current-tag { background: #dcfce7; color: #166534; font-size: 0.7rem; padding: 4px 8px; border-radius: 5px; margin-top: -5px; }
+    </style>
+</head>
+<body>
+    <div class="preview-container">
+        <h1>패턴 매칭 / 이미지 분석 아이콘 미리보기</h1>
+        <p>SAFE-H 프로젝트의 학술적 분위기에 어울리는 후보군입니다.</p>
+
+        <div class="icon-grid">
+            <div class="group-title">1. 기하학적 정합 및 비교</div>
+            <div class="icon-card">
+                <i class="fas fa-object-group"></i>
+                <span>fas fa-object-group<br>(객체 정합/레이어)</span>
+            </div>
+            <div class="icon-card">
+                <i class="fas fa-clone"></i>
+                <span>fas fa-clone<br>(이미지 복제 및 정합)</span>
+            </div>
+            <div class="icon-card">
+                <i class="fas fa-shapes"></i>
+                <span>fas fa-shapes<br>(복합 패턴 분류)</span>
+            </div>
+
+            <div class="group-title">2. 매트릭스 및 특징 추출</div>
+            <div class="icon-card">
+                <i class="fas fa-th"></i>
+                <span class="current-tag">현재 적용됨</span>
+                <span>fas fa-th<br>(픽셀 매트릭스/어레이)</span>
+            </div>
+            <div class="icon-card">
+                <i class="fas fa-border-all"></i>
+                <span>fas fa-border-all<br>(격자 필터링)</span>
+            </div>
+            <div class="icon-card">
+                <i class="fas fa-vector-square"></i>
+                <span>fas fa-vector-square<br>(바운딩 박스 특징점)</span>
+            </div>
+
+            <div class="group-title">3. 식별 및 정밀 분석</div>
+            <div class="icon-card">
+                <i class="fas fa-fingerprint"></i>
+                <span>fas fa-fingerprint<br>(고유 패턴 식별)</span>
+            </div>
+            <div class="icon-card">
+                <i class="fas fa-expand"></i>
+                <span>fas fa-expand<br>(영역 포커싱/스캔)</span>
+            </div>
+            <div class="icon-card">
+                <i class="fas fa-braille"></i>
+                <span>fas fa-braille<br>(포인트 데이터 매칭)</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

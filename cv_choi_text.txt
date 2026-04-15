@@ -1,0 +1,166 @@
+Curriculum Vitae
+Ji Eun Choi
+choije@pknu.ac.kr
+Associate Professor
+Department of Statistics and Data Science
+Pukyong National University
+45, Yongso-ro, Nam-gu
+Busan, 48513, Korea
+EDUCATION
+Ph.D in Statistics         ,                                            2015/03 - 2020/02
+Ewha Womans University, South Korea
+Advisor: Dr. Dong Wan Shin
+Dissertation Title: Studies on the dynamic correlation coeﬀicient
+B.S in Health Management and Statistics                    ,                          2011/03 - 2015/02
+Ewha Womans University, South Korea
+PROFESSIONAL CAREER
+Associate Professor, Department of Statistics and Data Science                                             2025/03 - Present
+Pukyong National University, South Korea
+Assistant Professor, Department of Statistics and Data Science                                            2021/03 - 2025/02
+Pukyong National University, South Korea
+Postdoctoral Researcher, Institute of Mathematical Sciences                                             2020/03 - 2021/02
+Ewha Womans University, South Korea
+RESEARCH INTERESTS
+Time series analysis, Change point analysis, Financial risk management
+PUBLICATIONS
+1. Ji-Eun Choi      , Ji Won Shin and Dong Wan Shin                 (2025  ) Vector SHAP values for machine learning time
+series forecasting,        Journal of Forecasting          , 44, 635-645,      https://doi.org/10.1002/for.3220
+2. Ji-Eun Choi      and Dong Wan Shin         (2025  ) Nonparametric kernel estimation for local tail-event correlation,
+Statistics and Its Interface           , 18, 17-31,     https://dx.doi.org/10.4310/SII.241023031300
+3. Ji-Eun Choi       and Dong Wan Shin          (2025  ) A break test for the tail-event correlation matrix based on
+the self-normalization method,              Journal of the Korean Statistical Society                 , 54, 91-109,     https://doi.org/10.
+1007/s42952-024-00289-w
+4. Byungjun Ko, Chaewon Lee, Taedong Kang and                        Ji-Eun Choi       (2025  ) SHAP explanation of machine
+learning forecasting of PM10 concentration,                    The Korean Journal of Applied Statistics                  , 38, 79-88,     https:
+//doi.org/10.5351/KJAS.2025.38.1.079
+5. Ji-EunChoi      andDongWanShin          (2024  ) Subsamplescantestformultiplebreaksbasedonself-normalization,
+Communications in Statistics - Theory and Methods                        , 53, 627-640,       https://doi.org/10.1080/03610926.
+2022.2087883
+6. Ji-Eun Choi      and Dong Wan Shin          (2024  ) A self-normalization test for structural breaks in a regression
+model for panel data sets,            Journal of the Korean Statistical Society                  , 53, 495-508,       https://doi.org/10.
+1007/s42952-024-00255-6
+----------------Page (0) Break----------------
+Curriculum Vitae
+7. Ah-ram Lee, Jae Youn Ahn,             Ji-Eun Choi      and Kyongwon Kim          (2024  ) DR-LSTM: Dimension reduction
+based deep learning approach to predict stock price,                         Communications for Statistical Applications and
+Methods    , 31, 213-234,      https://doi.org/10.29220/CSAM.2024.31.2.213
+8. Yoonjoo Lee, Dong Wan Shin and                 Ji-Eun Choi       (2024  ) Forecasting realized volatility using data nor-
+malization and recurrent neural network,                   Communications for Statistical Applications and Methods                          , 31,
+105-127,    https://doi.org/10.29220/CSAM.2024.31.1.105
+9. Ji-Eun Choi      and Dong Wan Shin          (2023  ) Bootstrapping tests for breaks in mean or variance based on
+U-statistics,     Journal of Statistical Computation and Simulation                      , 93, 2357-2369,       https://doi.org/10.1080/
+00949655.2023.2180642
+10.  Ji-Eun Choi      and Dong Wan Shin         (2022  ) Quantile correlation coeﬀicient: a new tail dependence measure,
+Statistical Papers       , 63, 1075-1104,       https://doi.org/10.1007/s00362-021-01268-7
+11.  Ji-Eun Choi      and Dong Wan Shin          (2022  ) Parallel architecture of CNN-bidirectional LSTMs for implied
+volatility forecast,        Journal of forecasting         , 41, 1087-1098,       https://doi.org/10.1002/for.2844
+12.  Ji-Eun Choi      and Dong Wan Shin          (2022  ) How to improve oil consumption forecast using google trends
+from online big data?: the structured regularization methods for large vector autoregressive model,                                           Com-
+munications for Statistical Applications and Methods                       , 29, 41-51,     https://doi.org/10.29220/CSAM.2022.29.
+1.041
+13.  Ji-Eun Choi      and Dong Wan Shin         (2021  ) A self-normalization break test for correlation matrix,                       Statistical
+Papers   , 62, 2333–2353,       https://doi.org/10.1007/s00362-020-01188-y
+14.  Ji-Eun Choi       and Dong Wan Shin          (2021  ) A general panel break test based on the self-normalization
+method,    Journal of the KoreanStatistical Society                 , 50, 654–680,      https://doi.org/10.1007/s42952-021-00125-5
+15.  Ji-Eun Choi      and Dong Wan Shin         (2021  ) Nonparametric estimation of time varying correlation coeﬀicient,
+Journal of the Korean Statistical Society                 , 50, 333–353,      https://doi.org/10.1007/s42952-020-00073-6
+16.  Ji-Eun Choi       and Dong Wan Shin          (2020  ) A self-normalization test for correlation change,                      Economics
+Letters   , 193, 108363,      https://doi.org/10.1016/j.econlet.2019.02.007
+17.  Ji-Eun Choi      and Dong Wan Shin          (2020  ) Block bootstrapping for a panel mean break test,                       Journal of
+the Korean Statistical Society             , 49, 802–821,      https://doi.org/10.1007/s42952-019-00034-8
+18.  Ji-Eun Choi      and Dong Wan Shin          (2020  ) Bootstrapping volatility spillover index,                  Communications in
+Statistics - Simulation and Computation                  , 49, 66-78,     https://doi.org/10.1080/03610918.2018.1476696
+19.  Ji-Eun Choi      and Dong Wan Shin          (2019  ) The roles of differencing and dimension reduction in machine
+learning forecasting of employment level using the FRED big data,                               Communications for Statistical Ap-
+plications and Methods          , 26, 497-506,      https://doi.org/10.29220/CSAM.2019.26.5.497
+20.  Ji-Eun Choi      and Dong Wan Shin          (2019  ) Three regime bivariate normal distribution: a new estimation
+method for co value-at-risk, CoVaR,                The European Journal of Finance               , 25, 1817-1833,       https://doi.org/
+10.1080/1351847X.2019.1639208
+21.  Ji-Eun Choi      and Dong Wan Shin          (2019  ) Moving block bootstrapping for a CUSUM test for correlation
+change,    Computational Statistics and Data Analysis                   , 135, 95-106,      https://doi.org/10.1016/j.csda.2018.
+10.016
+22.  Ji-Eun Choi      and Dong Wan Shin          (2019  ) Quantile forecasts for financial volatilities based on parametric
+and asymmetric models,            Journal of the Korean Statistical Society                  , 48, 68-83,     https://doi.org/10.1016/
+j.jkss.2018.08.005
+23.  Ji-Eun Choi      and Dong Wan Shin         (2018  ) Forecasts for leverage heterogeneous autoregressive models with
+jumps and other covariates,             Journal of Forecasting          , 37, 691-704,      https://doi.org/10.1002/for.2530
+24.  Ji-Eun Choi      , Hyesun Lee and Jongwoo Song                (2018  ) Forecasting daily PM10 concentrations in Seoul
+using various data mining techniques,                 Communications for Statistical Applications and Methods                          , 25  (2 ),
+199-215,    https://doi.org/10.29220/CSAM.2018.25.2.199
+25.  Seul-Ki Park,       Ji-Eun Choi       and Dong Wan Shin          (2017  ) Value at risk forecasting for volatility index,
+Applied Economics Letters            , 24  (21 ), 1613-1620,     https://doi.org/10.1080/13504851.2017.1366631
+TALKS
+----------------Page (1) Break----------------
+Curriculum Vitae
+1. “Vector SHAP: an explanation method for machine learning-based time series forecasting”, 2025, KSS
+Summer Conference, Gyeongju, South Korea.
+2. “Vector SHAP values for machine learning time series forecasting”, 2025, 2025 KSIEC Spring Meeting
+and International Conference, Jeju, South Korea.
+3. “An ensemble model of CNN-BiLSTMs for forecasting NASDAQ volatility index”, 2022, 5th International
+Conference on Econometrics and Statistics                   (EcoSta 2022     ), Tokyo, Japan.
+4. “Parallel Architecture of CNN-bidirectional LSTMs for Implied Volatility Forecast”, 2022, KSS Summer
+Conference, Seoul National University, Seoul, South Korea.
+5. “A general panel break test based on the self-normalization method”, 2021, KSS Autumn Conference,
+Korea University, Seoul, South Korea.
+6. “A self-normalization test for correlation matrix change”, 2021, 10th World Congress in Probability and
+Statistics, Seoul, South Korea.
+7. “Testing constancy of correlation matrix based on self-normalization method”, 2021, 4th International
+Conference on Econometrics and Statistics                   (EcoSta 2021     ), Hong Kong.
+8. “A test for correlation change detection based on self-normalization”, 2019, KSS Autumn Conference,
+University of Seoul, Seoul, South Korea.
+9. “A correlation break test based on self-normalization”, 2019, Korean Economic Review International
+Conference, Sogang University, Seoul, South Korea.
+10.  “Kernel estimation of local tail-event correlation”, 2019, Extreme Value Analysis 2019, University of
+Zagreb, Zagreb, Croatia.
+11.  “Local tail-event correlation”, 2019, KSS Spring Conference, Kangwon National University, Kangwon,
+South Korea.
+12.  “Block Bootstrapping for a Change Detection Test for Correlation Change”, 2019, 15th Western Economic
+Association International Conference, Keio University, Tokyo, Japan.
+13.  “Moving block bootstrapping for panel mean break test”, 2018, 9th Ewha-JWU-Ochanomizu Joint Sym-
+posium, Ewha Womans University, Seoul, South Korea.
+14.  “Block bootstrapping for a CUSUM test for a panel mean break”, 2018, KSS Autumn Conference, Ewha
+Womans University, Seoul, South Korea.
+15.  “A new estimation method for CoVaR based on three regime bivariate normal distribution”, 2018, Joint
+Statistical Meetings, Vancouver Convention Centre, Vancouver, Canada.
+16.  “Three regime bivariate normal distribution”, 2018, KSS Spring Conference, Pusan National University,
+Busan, South Korea.
+17.  “Estimation method for CoVaR based on three regime bivariate normal distribution”, 2017, International
+Workshop on Computational Mathematics, Ewha Womans University, Seoul, South Korea.
+18.  “Correlation change detection using moving block bootstrapping”, 2017, 8th Ewha-JWU-Ochanomizu
+Joint Symposium, Ewha Womans University, Seoul, South Korea.
+19.  “A bootstrap test for correlation change”, 2017, KSS Autumn Conference, Yonsei University, Seoul, South
+Korea.
+20.  “Bootstrap methods for volatility spillover index”, 2017, KSS Spring Conference, Sookmyung Women                                              ’s
+University, Seoul, South Korea.
+21.  “Forecasting value-at-risk for volatility index with HAR model”, 2016, 7th Ewha-JWU-Ochanomizu Joint
+Symposium, Ewha Womans University, Seoul, South Korea.
+22.  “Quantile forecasts for asymmetric HAR model with conditionally heteroscedastic skewed error with ap-
+plications to realized volatilities and implied volatilities index”, 2016, KSS Autumn Conference, Statistics
+Korea, Daejeon, South Korea.
+23.  “Interval and value at risk forecasting for realized volatility and implied volatility having asymmetry”,
+2016, 22nd International conference on computational statistics, Auditorio Principe Felipe, Oviedo, Spain.
+----------------Page (2) Break----------------
+Curriculum Vitae
+TEACHING
+114221    Introduction to Statistics I           , Spring 2022, 2023, 2024, 2025
+112865    Introduction to Statistics II           , Fall 2022, 2023, 2024
+106625    Probability Theory        , Spring 2022, 2023, 2024, 2025
+106376    Matrix Algebra       , Fall 2022, 2023, 2024, 2025
+114259    Statistical Language R          , Fall 2024, 2025
+113487    Time Series Data Analysis            , Spring 2021, 2022, 2023, 2024
+112845    Economic and Financial Data Analysis                  , Fall 2021, 2022, 2023, 2024
+110548    Statistical Mathematics          , Spring 2021
+112331    Multivariate Data Analysis            , Fall 2021
+A11454    Financial Big Data         , Fall 2025
+A11468    Data Science Statistics          , Spring 2024
+A09650    Statistical Computing         , Spring 2021
+A01000    Multivariate Data Analysis            , Fall 2021
+A09659    Advanced Time Series Analysis              , Spring 2022
+GRANTS
+Sept 2025 - Aug 2026 Forecasting financial risk                     (VaR  ) using high-dimensional financial time series data,
+National Research Foundation of Korea                  (PI )
+June 2021 - May 2022 Financial volatility forecasting with an aid of big data and structural change detection,
+National Research Foundation of Korea                  (PI )
+June 2022 - Feb 2025 Studies on change detection in time series and forecasting time series,
+National Research Foundation of Korea                  (PI )
+----------------Page (3) Break----------------

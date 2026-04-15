@@ -1,0 +1,199 @@
+SOYOUNGPARK
+Associate Professor
+Department of Statistics // Pusan National University
+soyoung@pusan.ac.kr
+RESEARCH INTERESTS
+Applied statistics,  Data science,  Machine learning,  Big data analysis,  Image analysis,  Graph theory,
+Forensic science, Network analysis, Multivariate analysis, Pattern matching, Time Series, Text mining
+PROFESSIONAL POSITION
+Assistant Professor                                              Sep.  2020 - Present
+Department of Statistics
+Pusan National University, Busan, South Korea
+Postdoctoral Research Associate                                 Aug.  2018 - Aug.  2020
+CSAFE (Center for Statistics and Applications in Forensic Evidence)
+Iowa State University, Ames, IA, U.S.A.
+EDUCATION
+Iowa State University, Ames, IA, U.S.A.                            Aug.  2013 - Aug.  2018
+Ph.D, Statistics, Summer 2018
+Thesis Topic :  Learning algorithms for forensic science applications
+Advisor :  Alicia Carriquiry, Distinguished Professor
+Ewha Womans University, Seoul, South Korea                      Mar.  2011 - Aug.  2013
+M.S., Statistics
+Thesis Topic :  Models for forecasting realized volatility in nancial data
+Advisor :  Dong Wan Shin, Professor
+Ewha Womans University, Seoul, South Korea                      Mar.  2006 - Feb.  2011
+B.S., Statistics
+B.E., Economics
+Dean's list :  1 year
+Merit-based scholarship :  4 semesters
+REFEREED JOURNAL PUBLICATIONS
+1.  Yejin Kim, Alicia Carriquiry and     Soyoung Park .  \Enhancing automated shoeprint comparison
+via  synthetic  data  generation  and  deep  segmentation".Science  &  Justice,  66,  101434, https:
+//doi.org/10.1016/j.scijus.2026.101434, 2026
+2.  Yuseong Kwon, Sojeong Park,    Soyoung Park and Heaseung Lee.  \Benchmarking of dimension-
+ality reduction methods to capture drug response in transcriptome data".    Scientic Reports, 15,
+32173, https://doi.org/10.1038/s41598-025-12021-7, 2025
+3.  Moonsoo  Jang,  Alicia  Carriquiry  and    Soyoung Park .   \Enhancing  forensic  shoeprint  analy-
+sis:   Application  of  the  Shoe-MS  algorithm  to  challenging  evidence",  Science  &  Justice,  65,
+101255,https://doi.org/10.1016/j.scijus.2025.101255, 2025.
+----------------Page (0) Break----------------
+4.  Juhyeon Kim,    Soyoung Park and Alicia Carriquiry.  \A deep learning approach for the compari-
+son of handwritten documents using latent feature vectors", Statistical Analysis and Data Mining:
+The ASA Data Sci Journal  , 17(1), e11660, http://dx.doi.org/10.1002/sam.11660, 2024.
+5.  Hana Lee, Alicia Carriquiry and     Soyoung Park .  \An automated alignment algorithm for iden-
+tication  of  the  source  of  footwear  impressions  with  common  class  characteristics",Statistical
+Analysis and Data Mining:  The ASA Data Sci Journal   , 17(1), e11659, http://dx.doi.org/10.
+1002/sam.11659, 2024.
+6.  Moonsoo  Jang,    Soyoung Park and  Alicia  Carriquiry.   \A  nely  tuned  deep  transfer  learning
+algorithm to compare outsole images",  Statistical Analysis and Data Mining:  The ASA Data Sci
+Journal, 16(6), 511{527, https://doi.org/10.1002/sam.11636, 2023.
+7.  Soyoung Park and Alicia  Carriquiry.  \The  eect of  image descriptors on  the performance of
+classiers of footwear outsole image pairs",   Forensic Science International, 331:  111126, https:
+//doi.org/10.1016/j.forsciint.2021.111126, 2022.
+8.  Soyoung Park and Alicia Carriquiry.  \Quantifying the similarity of 2D images using edge pixels:
+An application to the forensic comparison of footwear impressions",  Journal of Applied Statistics ,
+48(10), 1833{1860, https://doi.org/10.1080/02664763.2020.1779194, 2020.
+9.  Soyoung Park ,  Alicia Carriquiry.  \A database of two-dimensional images of footwear outsole
+impressions", Data in Brief , 30:105508, https://doi.org/10.1016/j.dib.2020.105508, 2020.
+10.  Soyoung Park , Alicia Carriquiry, L. Kenneth Horkley, David W. Peate. \A database of elemental
+compositions of architectural oat glass samples measured by LA-ICP-MS",     Data  in  Brief,  30:
+105449, https://doi.org/10.1016/j.dib.2020.105449, 2020.
+11.  Soyoung Park and Alicia Carriquiry.  \An algorithm to compare two-dimensional footwear out-
+sole images using maximum cliques and speeded-up robust feature",  Statistical Analysis and Data
+Mining:   The  ASA  Data  Sci  Journal.,  13(2):188{199,  https://doi.org/10.1002/sam.11449,
+2020.
+12.  Soyoung Park  and  Sam  Tyner.    \Evaluation  and  comparison  of  methods  for  forensic  glass
+source  conclusions", Forensic  Science  International,  305:  110003,  https://doi.org/10.1016/
+j.forsciint.2019.110003, 2019.
+13.  Soyoung Park and Alicia Carriquiry.  \Learning algorithms to evaluate forensic glass evidence",
+The Annals of Applied Statistics , 13(2):1068{1102, https://doi:10.1214/18-AOAS1211, 2019.
+14.  Soyoung Park and Dong Wan Shin.  \Modeling and forecasting realized volatilities of Korean
+nancial assets featuring long memory and asymmetry",Asia-Pacic Journal of Financial Studies ,
+43:31{58, 2014.
+BOOK CHAPTERS
+1.  Soyoung Park and  Sam  Tyner.   \Chapter  6,  Shoe  outsole  impression  evidence",  Book                                                                                                          \Open
+Forensic Science in R"  by rOpenSci, doi:10.5281/zenodo.3418141.
+2.  Soyoung Park and Sam Tyner.  \Chapter 7, Trace glass evidence:  chemical composition", Book
+\Open Forensic Science in R"  by rOpenSci, doi:10.5281/zenodo.3418141.
+PAPERS IN PREPARATION
+1.  Moonsoo Jang, Alicia Carriquiry and     Soyoung Park and \Deep learning approach for shoeprint
+matching", Working paper.
+----------------Page (1) Break----------------
+2.  Soyoung Park and Alicia Carriquiry.  \Statistical model for similarity on time and weight eect
+for forensic comparison of shoeprints", Working paper.
+AWARDS & HONORS
+Research award                                                         Aug.  2013
+Ewha Womans University, Seoul, South Korea
+Student paper presentation award                                          Nov.  2012
+2nd  place                                                                  The Korean Statistical Society, Seoul, South Korea
+RESEARCH EXPERIENCE
+Post-doctoral Research Associate                                   Sep.  2018 - Present
+Department of Statistics
+CSAFE (Center for Statistics and Applications in Forensic Evidence)
+Iowa State University
+Supervisor :  Alicia Carriquiry, Distinguished Professor
+Research Assistant                                            Jan.  2016 - Aug.  2018
+Department of Statistics
+CSAFE (Center for Statistics and Applications in Forensic Evidence)
+Iowa State University
+Supervisor :  Alicia Carriquiry, Distinguished Professor
+Guest Researcher                           Jun.  2016 - Aug.  2016, Apr.  2017 - Feb.  2018
+Statistical Engineering
+NIST (National Institute of Standards and Technology), Gaithersburg, MD, USA
+Supervisor :  Martin Herman, Ph.D
+Research Assistant                                            Mar.  2011 - Feb.  2012
+Department of Statistics
+Institute of Statistics
+Ewha Womans University
+Supervisor :  Dong Wan Shin, Professor
+Consultant, Statistical Analyst                                   Mar.  2011 - Feb.  2012
+Department of Statistics
+Institute of Statistics
+Ewha Womans University
+TEACHING EXPERIENCE
+Instructor                                                    Jan.  2015 - Dec.  2015
+Engineering statistics (STAT 305) ; Spring, 2015
+Engineering statistics (STAT 305) ; Fall, 2015
+Department of Statistics
+Iowa State University
+Teaching Assistant                                            Aug.  2013 - Dec.  2014
+----------------Page (2) Break----------------
+Probability for computer science (STAT 330) ; Fall, 2013
+Probability for computer science (STAT 330) ; Spring, 2014
+Engineering statistics (STAT 305) ; Fall, 2014
+Department of Statistics
+Iowa State University
+Teaching Assistant                                            Mar.  2011 - Aug.  2013
+Statistics for management and economy (35303)
+Department of Statistics
+Ewha Womans University
+CONFERENCE PRESENTATIONS
+AAFS (American Academy of Forensic Sciences)                            Feb.  21, 2020
+Oral presentation
+Title:   A  Comparison  of  2D  Footwear  Images  Using  Maximum  Clique  (MC)  and  Speeded-Up
+Robust Features (SURFs)
+AAFS, Anaheim, CA, U.S.A.
+CSAFE All hands meeting                                             May.  21, 2019
+Poster presentation
+Title:  Similarity of 2D images:  An application to the forensic comparison of shoe outsole impres-
+sions
+Iowa State University, Ames, IA, U.S.A.
+Research Day                                                       Mar.  27, 2019
+Poster presentation
+Title:  Visual exploration of oat glass data
+Iowa State University, Ames, IA, U.S.A.
+CSAFE Center Wide Webinar                                          Mar.  11, 2019
+Oral presentation
+Title:  Similarity of 2D images:  An application to the forensic comparison of shoe outsole impres-
+sions (Link-for-lecture)
+Ames, IA, U.S.A.
+Forensic@NIST                                                      Nov.  7, 2018
+Poster presentation
+Title:  A semi-automated algorithm to quantify the similarity between shoe outsole impressions
+Gaithersburg, MD, U.S.A.
+JSM (Joint Statistical Meetings)                                         Aug.  3, 2018
+Poster presentation
+Title:  A semi-automated algorithm to compare shoe outsole impressions
+Vancouver, Canada
+Korean Statistical Association                                          May.  8, 2018
+Oral presentation
+Title:  An algorithm using maximum clique for comparing shoe outsole impressions
+Busan National University, South Korea
+----------------Page (3) Break----------------
+Research Day                                                       Mar.  27, 2018
+Poster presentation
+Title:  A semi-automated algorithm to compare shoe outsole impressions
+Iowa State University, Ames, IA, U.S.A.
+AAFS (American Academy of Forensic Sciences)                            Feb.  22, 2018
+Poster session for young forensic scientist forum
+Title:  A semi-automated algorithm to compare shoe outsole impressions
+AAFS, Seattle, WA, U.S.A.
+WSDS (Women in Statistics and Data Science)                              Oct.  20, 2017
+Poster presentation
+Title:  Toward a score-based approach to compare shoe sole impressions
+WSDS, La Jolla, San Diego, CA, U.S.A.
+ICFIS (10th International Conference on Forensic Inference and Statistics)       Sep.  6, 2017
+Oral presentation
+Title:  Toward a score-based approach to compare shoe sole impressions
+ICFIS, Minneapolis, MN, U.S.A.
+OSAC (Overseas Security Advisory Council)                              Apr.  19, 2017
+Oral presentation
+Title:  Toward a score-based approach to compare shoe sole impressions
+Meetings for Foot wear and tire track evidence
+OSAC, Leesburg, VA, U.S.A.
+Korean Data and Information Science Society                              May.  10, 2013
+Oral presentation
+Title:  Modeling and forecasting realized volatilities of Korean nancial assets featuring long mem-
+ory and asymmetry
+Yeungnam University, South Korea
+Korean Statistical Association                                           Nov.  3, 2012
+Oral presentation
+2nd  place in Student paper presentation award
+Title:  Modeling and forecasting realized volatilities of Korean nancial assets featuring long mem-
+ory and asymmetry
+Konkuk University, South Korea
+TECHNICAL STRENGTHS
+Programming Languages     R, MATLAB, Python, SAS, Minitab, SPSS, JMP, Design Expert
+Documentation             LaTex, MS-Oce
+Languages                 English, Korean (native)
+----------------Page (4) Break----------------
